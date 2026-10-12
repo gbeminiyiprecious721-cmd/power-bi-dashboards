@@ -33,7 +33,7 @@ Measures include total sales, prior-year sales, YoY %, YTD, prior-year YTD and l
 - DAX measures for time intelligence (prior year, YoY, YTD)
 - P&L and KPI reporting
 - Interactive report design: slicers, drill-down, buttons and navigation
-- Custom visuals (sunburst, image viewer, timeline)
+- Custom visuals (sunburst chart, image viewer)
 
 ## Tools
 
