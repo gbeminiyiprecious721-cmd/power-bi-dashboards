@@ -38,3 +38,9 @@ Measures include total sales, prior-year sales, YoY %, YTD, prior-year YTD and l
 ## Tools
 
 Power BI Desktop, DAX.
+
+## Licence
+
+The report design, data model structure and DAX measures are released under the MIT Licence (see `LICENSE`).
+
+The underlying sample data remains subject to its original terms. The sales performance report uses the Microsoft Adventure Works sample dataset. The retail finance report uses a sample retail dataset and is shared here for demonstration only.
